@@ -11,3 +11,4 @@
 {"message":"Bookmark with id 76e4e770-5c30-45d0-a785-e7e14e047d11 deleted","level":"info"}
 {"message":"Unauthorized request to path: /","level":"error"}
 {"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}

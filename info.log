@@ -9,3 +9,5 @@
 {"message":"Bookmark created","level":"info"}
 {"message":"Bookmark with id 47852575-70cb-4f45-ba37-c10ac2945f57 not found","level":"error"}
 {"message":"Bookmark with id 76e4e770-5c30-45d0-a785-e7e14e047d11 deleted","level":"info"}
+{"message":"Unauthorized request to path: /","level":"error"}
+{"message":"Unauthorized request to path: /","level":"error"}

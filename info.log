@@ -1,0 +1,11 @@
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks","level":"error"}
+{"message":"Invalid rating provided: 6","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/e0b670b1-0d56-4f4e-97ff-d550da0660a0","level":"error"}
+{"message":"No bookmark found with id e0b670b1-0d56-4f4e-97ff-d550da0660a0","level":"error"}
+{"message":"Bookmark created","level":"info"}
+{"message":"Bookmark with id 47852575-70cb-4f45-ba37-c10ac2945f57 deleted","level":"info"}
+{"message":"Bookmark with id 47852575-70cb-4f45-ba37-c10ac2945f57 not found","level":"error"}
+{"message":"Bookmark created","level":"info"}
+{"message":"Bookmark with id 47852575-70cb-4f45-ba37-c10ac2945f57 not found","level":"error"}
+{"message":"Bookmark with id 76e4e770-5c30-45d0-a785-e7e14e047d11 deleted","level":"info"}
